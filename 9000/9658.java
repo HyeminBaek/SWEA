@@ -39,7 +39,7 @@ class Solution
             {
                 num=Integer.toString(arr[0])+"."+Integer.toString(arr[1]); flag =0;
             }
-             
+            
             System.out.println("#"+test_case+" "+num+"*10^"+(s.length()-1+flag));
         }
     }
